@@ -1,4 +1,4 @@
 Hello World
 Dziś jest 01.10.2018
-Nie wnikamczego się tu dowiaduje.
+Nie wnikam czego się tu dowiaduje.
 
